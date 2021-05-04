@@ -19,8 +19,8 @@
   "homepage": "https://github.com/Will-Andrade/ProjetoMaratonaDev#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "nodemon": "^2.0.2",
-    "nunjucks": "^3.2.0",
-    "pg": "^7.18.1"
+    "nodemon": "^2.0.7",
+    "nunjucks": "^3.2.3",
+    "pg": "^7.18.2"
   }
 }

@@ -8,7 +8,7 @@ server.use(express.static('public'))
 
 
 // Habilitando o corpo do formulário
-server.use(express.urlencoded({ extendend: true}))
+server.use(express.urlencoded({ extendend: true }))
 
 
 // Habilitando a conexão com o DB
@@ -72,4 +72,3 @@ server.post("/", function(req, res){
 server.listen(3000, function() {
     console.log("Server initiated.")
 })
-
